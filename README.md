@@ -12,5 +12,8 @@ Durante a apresentação na banca, o projeto recebeu muitos elogios e foi consid
 Embora tenha sido desenvolvido por apenas três pessoas, o site tem a complexidade e a qualidade de um projeto desenvolvido para centenas.
 
 Acesso ao site:
+
 zipnew.online
+
 zipnew2024.onrender.com
+[Texto do Link](URL)
