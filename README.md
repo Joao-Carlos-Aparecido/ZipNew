@@ -10,3 +10,7 @@ Reconhecimento
 Durante a apresentação na banca, o projeto recebeu muitos elogios e foi considerado o melhor, especialmente pela ideia inovadora de criar um bazar onde celebridades poderiam vender suas roupas usadas. Este diferencial gerou grande impacto no público.
 
 Embora tenha sido desenvolvido por apenas três pessoas, o site tem a complexidade e a qualidade de um projeto desenvolvido para centenas.
+
+Acesso ao site:
+zipnew.online
+zipnew2024.onrender.com
