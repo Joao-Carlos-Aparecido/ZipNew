@@ -10,7 +10,7 @@ A **Zip** permite que pessoas revendam roupas usadas, contribuindo para um plane
 
 ---
 
-### 🔧 Recursos
+###  Recursos
 
 #### Para Usuários:
 - Cadastro com validação de e-mail e segurança de senha.
@@ -32,7 +32,7 @@ A **Zip** permite que pessoas revendam roupas usadas, contribuindo para um plane
 
 ---
 
-### 👨‍💻 Tecnologias Utilizadas
+###  Tecnologias Utilizadas
 - **Linguagens e Frameworks:** JavaScript, Node.js, Express, MySQL, HTML, CSS.
 - **Ferramentas:** VSCode, Workbench, Clever Cloud, Render.
 - **Metodologias:** Mobile First, Usabilidade e Acessibilidade.
@@ -40,13 +40,13 @@ A **Zip** permite que pessoas revendam roupas usadas, contribuindo para um plane
 
 ---
 
-## 📜 Declaração de Direitos Autorais
+##  Declaração de Direitos Autorais
 
 A **Zip** respeita integralmente os direitos autorais e a propriedade intelectual de terceiros. As imagens e inspirações de design utilizadas durante o desenvolvimento deste projeto foram retiradas de sites como Enjoei, Repassa, Renner, Marisa, Versace, Dolce & Gabbana, entre outros, exclusivamente para fins de estudo e prototipagem. Nenhuma das imagens ou elementos de design usados no projeto têm intenção comercial ou de reprodução, sendo a plataforma **Zip** um produto original, desenvolvido como parte de um trabalho acadêmico. O projeto não visa violar direitos autorais de nenhuma marca ou empresa e será utilizado apenas no contexto acadêmico e de aprendizagem.
 
 ---
 
-### 🚀 Hospedagem e Domínios
+###  Hospedagem e Domínios
 - [zipnew.online](https://zipnew.online)
 - [zipnew2024.onrender.com](https://zipnew2024.onrender.com)
 
